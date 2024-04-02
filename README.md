@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm satyam pandey</h1>
 <h3 align="center">"🚀 Embarking on the DevOps Journey: Navigating from Novice to Proficient 🏆"</h3>
 
-- 🔭 I’m currently working on **Django-todo app using devops**
+- 🔭 I’m currently working on **three-tier application deployments**
 
 - 🌱 I’m currently learning **🚀 Embarking on my DevOps journey! Excited to learn and grow. 🌱**
 
