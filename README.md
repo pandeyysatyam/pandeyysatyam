@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 DevOps Engineer with **2.8+ years of experience** in cloud-native environments.  
+- 💼 DevOps Engineer with **3.1+ years of experience** in cloud-native environments.  
 - 🔭 Currently working on **three-tier application deployments** and DevOps pipelines at **Glazer Labs**.  
 - 🌱 Skilled in **AWS, Azure, Kubernetes, Docker, Terraform, Ansible, Jenkins, and GitHub Actions**.  
 - 🛡️ Experienced in **blue-green deployments, load balancer configurations, and monitoring** (Grafana, Prometheus).  
