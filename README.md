@@ -159,10 +159,6 @@ Multi-node Swarm cluster on EC2 with overlay networking, Nginx TLS termination, 
 ### Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pandeyysatyam&theme=github_dark" alt="Contribution summary"/>
-</p>
-
-<p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pandeyysatyam&theme=github_dark" alt="GitHub stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=pandeyysatyam&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Contribution streak"/>
 </p>
