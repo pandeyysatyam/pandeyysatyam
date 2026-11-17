@@ -9,9 +9,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/pandeyysatyam"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:satyampande2006@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email"/></a>&nbsp;
+  <a href="mailto:satyampande2006@gmail.com"><img src="https://img.shields.io/badge/satyampande2006@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=58A6FF" alt="satyampande2006@gmail.com"/></a>&nbsp;
   <a href="https://hashnode.com/@satyampandey"><img src="https://img.shields.io/badge/Blog-161b22?style=flat-square&logo=hashnode&logoColor=58A6FF" alt="Hashnode blog"/></a>&nbsp;
-  <a href="https://instagram.com/pandeyy.satyam"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=58A6FF" alt="Instagram"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Surat,_India-161b22?style=flat-square&logo=googlemaps&logoColor=58A6FF" alt="Location"/>&nbsp;
   <img src="https://img.shields.io/badge/Open_to-Remote_%26_Relocation-161b22?style=flat-square&labelColor=161b22&color=1a569b" alt="Open to remote and relocation"/>
 </p>
