@@ -25,6 +25,7 @@ jobs:
       - name: Profile details card (title without display name)
         run: |
           mkdir -p dist
+          sudo chown -R "$(id -u):$(id -g)" dist   # snk container creates dist as root
           curl -fsSL "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=${{ github.repository_owner }}&theme=github_dark" \
             | perl -pe 's/>${{ github.repository_owner }} \([^<]*\)</>${{ github.repository_owner }}</g' \
             > dist/profile-details.svg
